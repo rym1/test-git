@@ -2,3 +2,4 @@ j'ajoute la barre de navigation
 
 correction de bug
 lien vers le panier
+autre correction de bug
