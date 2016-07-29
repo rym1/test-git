@@ -1,1 +1,2 @@
 j'ajoute la barre de navigation
+correction de bug
