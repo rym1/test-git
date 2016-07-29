@@ -1,1 +1,2 @@
 j'ajoute la barre de navigation
+lien vers le panier
